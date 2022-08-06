@@ -3,7 +3,7 @@ title: misAlias
 description: Archivo alias con los comandos que más utilizo.
 author: Daniel G. Samborski
 ---
-Para cargar el archivo de alias al abrir la terminal, se deberá colocar lo siguiente en el archivo RC correspondiente. (`.bashrc`, `.zshrc`, etc...)
+Para cargar el archivo de alias al abrir la terminal, se deberá colocar lo siguiente en el archivo RC correspondiente. `(.bashrc, .zshrc, etc...)`
 
 ```sh
 ###
