@@ -7,7 +7,7 @@ alias rmd="rm -rf $*"
 ## Mis YAYs
 alias yayall="
 	yay -Syyu --noanswerclean --noanswerupgrade --cleanmenu --removemake --removemake --cleanafter --rebuild --rebuildall --useask;
-	yay -ccc"
+	yay -Sccc"
 alias yayremove="yay -Rns $@" # Con el @ puedo recivir mas de un parametro...
 
 #
